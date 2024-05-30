@@ -1,0 +1,10 @@
+aiohttp
+requests
+httpx
+pystyle
+colorama
+websocket-client
+emoji
+tasksio
+aioconsole
+tls-client
