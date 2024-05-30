@@ -23,13 +23,7 @@
 **token2**
 **ETC**
 
-**invite them to the server**
-
-**invite user you wanna spam to the server**
-
 **run start.bat**
-
-**do the same for src code. just run startpy.bat instead.**
 
 **Done.**
 
