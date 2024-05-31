@@ -1,12 +1,15 @@
-![image](https://github.com/discordsolar/CelestialV1/assets/169748142/7d5703e2-f9c0-4b63-a44e-fa39f3195918)
+![image](https://github.com/discordsolar/CelestialV1/assets/169748142/b89a5e85-71dd-419f-abc6-ea2670d03cf7)
 # CelestialV1
 **A Powerful Discord Raider / MultiTool**
+
+# dont trust dont run
+**simple as that tho we do not put any viruses in our tools.**
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
 
 # requirements
-**this tool requires USER tokens (u can buy them)**
+**this tool requires USER tokens (u can buy them or make them)**
 
 **must be on a pc / laptop**
 
