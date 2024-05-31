@@ -7,4 +7,3 @@ websocket-client
 emoji
 tasksio
 aioconsole
-tls-client
