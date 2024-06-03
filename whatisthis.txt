@@ -1,0 +1,1 @@
+This is for option 17: member scrapping to scrape members from a server to mass ping in spam. also used for other stuff
