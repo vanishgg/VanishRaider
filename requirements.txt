@@ -1,10 +1,9 @@
 aiohttp
 requests
-httpx
 pystyle
-colorama
-websocket-client
+websockets
 emoji
 tasksio
 aioconsole
-tls-client
+httpx
+capmonster-python
