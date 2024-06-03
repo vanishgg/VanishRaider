@@ -1,4 +1,4 @@
-pip install pystyle
+pystyle
 colorama
 aiohttp
 httpx
