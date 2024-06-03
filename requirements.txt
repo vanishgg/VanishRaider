@@ -1,9 +1,9 @@
-aiohttp
-requests
-httpx
-pystyle
+pip install pystyle
 colorama
-websocket-client
+aiohttp
+httpx
+aioconsole
+websockets
 emoji
 tasksio
-aioconsole
+capmonster-python
