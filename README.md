@@ -22,6 +22,7 @@
 **put your User tokens in tokens.txt in this format:**
 
 **token1**
+
 **token2**
 **ETC**
 
