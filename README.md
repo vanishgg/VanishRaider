@@ -24,9 +24,10 @@
 **token1**
 
 **token2**
+
 **ETC**
 
-**run start.bat**
+**run start.bat or main.exe**
 
 **Done.**
 
