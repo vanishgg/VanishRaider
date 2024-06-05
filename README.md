@@ -1,4 +1,4 @@
-![image](https://i.ibb.co/9qTHXFc/Copy-of-Untitled.png)
+![image](https://github.com/discordsolar/Celestial-v1/assets/169748142/9bcf655e-7bc5-4d01-9d79-ba4644ced0f7)
 # CelestialV1
 **A Powerful Discord Raider / MultiTool**
 
