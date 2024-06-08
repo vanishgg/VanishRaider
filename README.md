@@ -21,8 +21,7 @@
 
 **put your User tokens in tokens.txt in this format:**
 
-**token1**
-
+**token1**/n
 **token2**
 
 **ETC**
