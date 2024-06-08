@@ -21,7 +21,8 @@
 
 **put your User tokens in tokens.txt in this format:**
 
-**token1**/n
+**token1** 
+
 **token2**
 
 **ETC**
@@ -29,4 +30,6 @@
 **run start.bat or main.exe**
 
 **Done.**
+
+GO TO HELP.txt FOR MORE HELP
 
