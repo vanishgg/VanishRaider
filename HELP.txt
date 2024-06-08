@@ -1,0 +1,24 @@
+ALL COMMON PROBLEMS WILL GO HERE WITH A FIX.
+
+Instant closing - help 1.
+If the tool instantly closes, then do this
+
+1. open terminal
+
+2. cd C:\Users\uruser\Downloads\Celestial-v1-main\Celestial-v1-main
+replace uruser with ur actual pc username
+
+3. type main.exe
+
+it shouldnt instantly close it should tell u the error, if you know the error then fix it. if you don't contact @.cix2 on discord.
+
+Token format - help 2.
+due to some people not knowing what the the token format is. they put it in the wrong format. and the tool doesnt work if thats the case this is the format
+
+example token
+example token
+example token
+
+
+more help?
+If you need more help contact @.cix2 through the discord.
