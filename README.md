@@ -1,6 +1,6 @@
-![image](https://github.com/discordsolar/Celestial-v1/assets/169748142/9bcf655e-7bc5-4d01-9d79-ba4644ced0f7)
-# CelestialV1
-**A Powerful Discord Raider / MultiTool**
+![image](https://github.com/discordsolar/VanishV2/assets/169748142/e2b535cc-ee06-4053-8204-f9e471d72738)
+# VanishV2
+**A Powerful Discord Raider / MultiTool, (OFFICIAL REBRAND)**
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
