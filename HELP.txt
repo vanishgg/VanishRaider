@@ -5,7 +5,7 @@ If the tool instantly closes, then do this
 
 1. open terminal
 
-2. cd C:\Users\uruser\Downloads\Celestial-v1-main\Celestial-v1-main
+2. cd C:\Users\uruser\Downloads\VanishV2-main\VanishV2-main
 replace uruser with ur actual pc username
 
 3. type main.exe
