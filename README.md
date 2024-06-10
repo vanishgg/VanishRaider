@@ -1,4 +1,4 @@
-![image](https://github.com/discordsolar/VanishV2/assets/169748142/e2b535cc-ee06-4053-8204-f9e471d72738)
+![image](https://github.com/vanishgg/VanishV2/assets/169748142/091219a1-1cd6-4694-9d8e-1bcc72fa48b5)
 # VanishV2
 **A Powerful Discord Raider / MultiTool, (OFFICIAL REBRAND)**
 
