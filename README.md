@@ -34,5 +34,18 @@
 
 **Done.**
 
+
+# Goals ⭐
+10 stars - update (30 options in total) ❌
+
+25 stars - BIG UPDATE (40 options in total) + Better UI ❌
+
+40 stars - Joiner + proxies (optional) + bug fixes ❌
+
+50 stars - Captcha solver (capsolver + capmonster) + Update all options if they are detected. ❌
+
+75 stars - major bug fix (if any bugs), and make it better. ❌
+
+125 stars - SRC CODE ❌
 GO TO HELP.txt FOR MORE HELP
 
