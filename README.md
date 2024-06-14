@@ -44,5 +44,3 @@
 75 stars - major bug fix (if any bugs), and make it better. ❌
 
 125 stars - SRC CODE ❌
-GO TO HELP.txt FOR MORE HELP
-
