@@ -5,9 +5,6 @@
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
 
-# update ⭐
-**ill update this raider/multi tool at 10 stars. ill add a lot more options. and some non raider options.**
-
 # requirements
 **this tool requires USER tokens (u can buy them)**
 
@@ -36,7 +33,7 @@
 
 
 # Goals ⭐
-10 stars - update (30 options in total) ❌
+10 stars - update // ui change ✅
 
 25 stars - BIG UPDATE (40 options in total) + Better UI ❌
 
