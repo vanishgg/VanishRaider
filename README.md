@@ -41,6 +41,6 @@
 
 50 stars - Captcha solver (capsolver + capmonster) + Update all options if they are detected. ❌
 
-75 stars - major bug fix (if any bugs), and make it better. ❌
+75 stars - major bug fix (if any bugs), and make it better. ++ More captcha service options❌
 
 125 stars - SRC CODE ❌
