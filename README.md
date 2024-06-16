@@ -35,7 +35,7 @@
 # Goals ⭐
 10 stars - update // ui change ✅
 
-25 stars - BIG UPDATE (40 options in total) + Better UI ❌
+25 stars - better ui + more options replaced ❌
 
 40 stars - Joiner + proxies (optional) + bug fixes ❌
 
