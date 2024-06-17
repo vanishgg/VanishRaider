@@ -31,5 +31,17 @@
 
 **Done.**
 
+
+# goals ⭐
+10 stars - Ui update + 2 new options filled ✅
+
+25 stars - Fixed Joiner + new options filled ❌
+
+50 stars - captcha solver + more options filled ❌
+
+75 stars - v3 ❌
+
+125 stars - src code ❌
+
 # Developers
 **Virtual : .cix2**
