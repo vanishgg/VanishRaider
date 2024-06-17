@@ -29,7 +29,7 @@
 
 **run start.bat or main.exe**
 
-**Done.**
+**Done, terminal closes instantly aopen opening? read help.txt**
 
 
 # goals ⭐
