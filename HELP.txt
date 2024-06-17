@@ -5,10 +5,10 @@ If the tool instantly closes, then do this
 
 1. open terminal
 
-2. cd C:\Users\uruser\Downloads\VanishV2-main\VanishV2-main
+2. cd C:\Users\uruser\Downloads\VanishRaider-main\VanishRaider-main
 replace uruser with ur actual pc username
 
-3. type main.exe
+3. type Vanish.exe
 
 it shouldnt instantly close it should tell u the error, if you know the error then fix it. if you don't contact @.cix2 on discord.
 
@@ -18,6 +18,7 @@ due to some people not knowing what the the token format is. they put it in the 
 example token
 example token
 example token
+etc
 
 
 more help?
