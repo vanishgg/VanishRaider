@@ -1,12 +1,12 @@
 ![image](https://github.com/vanishgg/VanishV2/assets/169748142/d3701c09-db52-4bae-87d5-79cb3b43d3c9)
-# VanishV2
+# VanishRaider
 **raiding made easy, A power discord Raider/MultiTool UI Inspired Off "Sapphire" (Not a promo dont buy or download Sapphire its a rat)**
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
 
 # requirements
-**this tool requires USER tokens (u can buy them)**
+**this tool requires USER tokens (u can buy them or make them)**
 
 **must be on a pc / laptop**
 
