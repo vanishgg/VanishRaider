@@ -6,4 +6,3 @@ emoji
 tasksio
 aioconsole
 httpx
-capmonster-python
