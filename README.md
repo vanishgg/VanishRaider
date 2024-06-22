@@ -45,5 +45,16 @@
 
 150 stars - FULL RECODE
 
+# changes
+```
+22/06/2024
+--------------------------------------------
+added new ascii art & updated ui
+added flood spam - guild check
+replaced booster & friender with - formatter & id to token
+--------------------------------------------
+```
+
+
 # Developers
 **Virtual : .cix2**
