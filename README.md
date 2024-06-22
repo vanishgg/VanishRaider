@@ -1,6 +1,6 @@
-![image](https://github.com/vanishgg/VanishV2/assets/169748142/d3701c09-db52-4bae-87d5-79cb3b43d3c9)
+![image](https://github.com/vanishgg/VanishRaider/assets/169748142/f5946c99-e943-4787-b008-b00da7a7eb0c)
 # VanishRaider
-**raiding made easy, A power discord Raider/MultiTool UI Inspired Off "Sapphire" (Not a promo dont buy or download Sapphire its a rat)**
+**raiding made easy, A power discord Raider/MultiTool UI Inspired Off "Sapphire" (Not a promo dont buy or download Sapphire its a rat). Enjoy**
 
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
