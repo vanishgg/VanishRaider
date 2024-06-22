@@ -35,7 +35,7 @@
 # goals ⭐
 10 stars - Ui update + 2 new options filled ✅
 
-25 stars - Updated Spammer + 3 options filled ✅(Still updating not out yet)
+25 stars - Updated Spammer + 5 options filled (2 were replaced ones) ✅
 
 50 stars - fixed joiner + 5 options filled ❌
 
