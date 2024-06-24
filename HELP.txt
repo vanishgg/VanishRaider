@@ -20,6 +20,14 @@ example token
 example token
 etc
 
+stuck at scraping members - help 3.
+Sometimes it gets stuck at scraping members heres what you can do
+
+all tokens must be in the server
+you need to clear file (tokens.txt) and put tokens in the format (help 2 if you dont know format)
+you need 4-5 tokens (depends on how big server is)
+and channel must be viewable for tokens
+
 
 more help?
 If you need more help contact @.cix2 through the discord.
