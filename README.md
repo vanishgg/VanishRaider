@@ -2,6 +2,9 @@
 # VanishRaider
 **raiding made easy, A power discord Raider/MultiTool UI Inspired Off "Sapphire" (Not a promo dont buy or download Sapphire its a rat). Enjoy**
 
+# Project End
+**Project has come to an end, i wont be updating this. or helping anymore with this**
+
 # Disclaimer
 **THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
 
