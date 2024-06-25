@@ -16,23 +16,24 @@
 **a brain**
 
 # tutorial
-**download the zip**
+```
+download the zip
 
-**extract the zip**
+extract the zip
 
-**open the folder**
+open the folder
 
-**put your User tokens in tokens.txt in this format:**
+put your User tokens in tokens.txt in this format:
 
-**token1** 
+token1
 
-**token2**
+token2
 
-**ETC**
+ETC
 
-**run start.bat or main.exe**
+run start.bat or main.exe
 
-**Done, terminal closes instantly aopen opening? read help.txt**
+Done, terminal closes instantly aopen opening? read help.txt```
 
 
 # goals ⭐
