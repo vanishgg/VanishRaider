@@ -33,7 +33,7 @@ ETC
 
 run start.bat or main.exe
 
-Done, terminal closes instantly aopen opening? read help.txt```
+Done, terminal closes instantly aopen opening? read help.txt
 
 
 # goals ⭐
@@ -48,8 +48,10 @@ Done, terminal closes instantly aopen opening? read help.txt```
 125 stars - src code ❌
 
 150 stars - FULL RECODE
+```
 
 # changes
+
 ```
 22/06/2024
 --------------------------------------------
@@ -58,7 +60,6 @@ added flood spam - guild check
 replaced booster & friender with - formatter & id to token
 --------------------------------------------
 ```
-
 
 # Developers
 **Virtual : .cix2**
