@@ -16,21 +16,17 @@
 ```
 download the zip
 extract the zip
-
 open the folder
 
 put your User tokens in tokens.txt in this format:
-
 token1
-
 token2
-
 ETC
 
 run start.bat or main.exe
 
 Done, terminal closes instantly aopen opening? read help.txt
-
+```
 
 # goals ⭐
 10 stars - Ui update + 2 new options filled ✅
