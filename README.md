@@ -15,7 +15,6 @@
 # tutorial
 ```
 download the zip
-
 extract the zip
 
 open the folder
