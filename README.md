@@ -33,7 +33,7 @@ Done, terminal closes instantly aopen opening? read help.txt
 
 25 stars - Updated Spammer + 5 options filled (2 were replaced ones) ✅
 
-50 stars - 5 options filled ❌
+50 stars - 4 options filled ❌
 
 75 stars - v3 (ALL OPTIONS FILLED) ❌
 
