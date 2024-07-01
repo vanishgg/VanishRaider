@@ -53,6 +53,19 @@ added new ascii art & updated ui
 added flood spam - guild check
 replaced booster & friender with - formatter & id to token
 --------------------------------------------
+01/07/2024
+--------------------------------------------
+Added log spammer
+Added Presence Changer 
+Added Token Login
+Added Pronoun Changer
+Added Ghost Ping spam
+Added VanishMatrix (Go to page 2 and type ? then enter)
+Changed Token checker
+Changed Color / Ui Success / failed prints
+Fixed token checker
+Fixed tokens (Only checks for mt tokens, will add NZ And ODY tokens. soon)
+Fixed Spammer (more handling)
 ```
 
 
