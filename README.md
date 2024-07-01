@@ -32,17 +32,17 @@ Done, terminal closes instantly aopen opening? read help.txt
 ```
 
 # goals ⭐
-10 stars - Ui update + 2 new options filled ✅
+10 stars ✅
 
-25 stars - Updated Spammer + 5 options filled (2 were replaced ones) ✅
+25 stars ✅
 
-50 stars - 4 options filled ❌
+50 stars ❌
 
-75 stars - v3 (ALL OPTIONS FILLED) ❌
+75 stars ❌
 
-125 stars - src code ❌
+125 stars ❌
 
-150 stars - FULL RECODE
+150 stars ❌
 
 
 # changes
