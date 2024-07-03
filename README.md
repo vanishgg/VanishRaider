@@ -6,7 +6,7 @@
 **⚠️ Only download vanish from this github repo. unless we say we have another method for downloading. do not download from any discord server. only this github repo. or else you might get ratted or grabbed**
 
 # Disclaimer
-**THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS CODE IS YOUR FAULT/PROBLEM**
+**THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS IS YOUR FAULT/PROBLEM**
 
 # requirements
 **this tool requires USER tokens (u can buy them or make them)**
