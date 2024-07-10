@@ -80,10 +80,10 @@ Fixed Spammer (more handling)
 
 
 # Links
-Website: https://vanishnet.netlify.app/
+Website:  https://vanishnet.netlify.app/
 
-Discord: https://discord.gg/Mv4YQAK8F2
+Discord:  https://discord.gg/Mv4YQAK8F2
 
-Youtube: https://www.youtube.com/@bugged.
+Youtube:  https://www.youtube.com/@bugged.
 
-Profile: https://vanishnet.netlify.app/profile
+Profile:  https://vanishnet.netlify.app/profile
