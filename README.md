@@ -71,13 +71,13 @@ Fixed Spammer (more handling)
 
 # rant (me ranting about randoms shit)
 - 1. **I started this raider because i was bored of nuking, joined raiding community, now i gotta deal with a lot more shit with nuking it had no downloads so there was nothing to worry about, now i got people saying i rat or grab with literal no proof.**
---
+
 - 2. **people also say i skid other raiders just because of vanish's ui so im planning to make a big change to the Ui soon. and people got no actual proof i skidded this or not**
---
+
 - 3. **well luckily people who do have a brain defend me when i don't ask so i do got somewhat of a supporting community heres some people who i like in this community // mentions :3 : "ng2.yung", "wrnr3" (one of my helpers), "funkyaid.py" (another one of my helpers), ng2 is pretty OG in the community i think he was there back when it was called celestial.**
---
+
 - 4. **i will probably post the source code of this raider when i'm done with it. since i'll have no use for it.**
---
+
 
 # Links
 Website: https://vanishnet.netlify.app/
