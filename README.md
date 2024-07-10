@@ -69,7 +69,7 @@ Fixed tokens (Only checks for mt tokens, will add NZ And ODY tokens. soon)
 Fixed Spammer (more handling)
 ```
 
-# rant (me ranting about randoms shit)
+# rant (me ranting about random shit)
 - 1 **I started this raider because i was bored of nuking, joined raiding community, now i gotta deal with a lot more shit with nuking it had no downloads so there was nothing to worry about, now i got people saying i rat or grab with literal no proof.**
 
 - 2 **people also say i skid other raiders just because of vanish's ui so im planning to make a big change to the Ui soon. and people got no actual proof i skidded this or not**
@@ -81,10 +81,9 @@ Fixed Spammer (more handling)
 
 # Links
 Website: https://vanishnet.netlify.app/
---
+
 Discord: https://discord.gg/Mv4YQAK8F2
---
+
 Youtube: https://www.youtube.com/@bugged.
---
+
 Profile: https://vanishnet.netlify.app/profile
---
