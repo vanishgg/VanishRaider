@@ -88,6 +88,3 @@ Youtube: https://www.youtube.com/@bugged.
 --
 Profile: https://vanishnet.netlify.app/profile
 --
-
-# Developers
-**Virtual : .cix2**
