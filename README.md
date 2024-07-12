@@ -78,6 +78,8 @@ Fixed Spammer (more handling)
 
 - 4 **i will probably post the source code of this raider when i'm done with it. since i'll have no use for it.**
 
+- 5 **if your gonna say this is a grabber or rat, have actual proof, virustotal doesn't count as it will always say a exe is a virus, compile an open source project of mine, or one that i will make open source, scan it on virustotal and now it will suddenly be a virus, usually its around 7/71 if you scan the exe, the exe is the only thing that matter because you can read the rest (: of the files**
+
 
 # Links
 Website:  https://vanishnet.netlify.app/
