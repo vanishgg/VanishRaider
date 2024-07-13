@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e6c85902-c77a-4de5-9f07-c39867d1a888)
+![image](https://github.com/user-attachments/assets/c4993df9-28ef-479c-8aa5-1938411b5198)
 # VanishRaider
 **raiding made easy, A power discord Raider/MultiTool**
 
