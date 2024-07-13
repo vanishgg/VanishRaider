@@ -94,5 +94,6 @@ Profile:   https://vanishnet.netlify.app/profile
 these people:
 <https://www.youtube.com/watch?v=BjLJ7j-QakY>
 <https://www.youtube.com/watch?v=67Kl6OGH5BI>
-have been reuploading me video (most popular) and posting a rat. DO NOT DOWNLOAD THIS RAR OR ZIP FILE You will get grabbed or ratted please only download from our github.
+have been reuploading me video (most popular) and posting a rat. DO NOT DOWNLOAD THIS RAR OR ZIP FILE You will get grabbed or ratted please only download from our github,
+its most likely the same person
 ![image](https://github.com/user-attachments/assets/396905de-dea9-4566-86b0-11f90990841f)
