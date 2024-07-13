@@ -67,6 +67,12 @@ Changed Color / Ui Success / failed prints
 Fixed token checker
 Fixed tokens (Only checks for mt tokens, will add NZ And ODY tokens. soon)
 Fixed Spammer (more handling)
+--------------------------------------------
+13/07/2024 (SMALL UPDATE)
+--------------------------------------------
+Changed tokens (now supports MT, Nz, OT, OD, Nj)
+Changed UI (Not really just added a 0 next to the 1-9 numbers)
+Updated spammer (Added multi spam, emoji amount, pings amount.)
 ```
 
 # rant (me ranting about random shit)
