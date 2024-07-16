@@ -39,7 +39,7 @@ Done, terminal closes instantly aopen opening? read help.txt
 
 50 stars ✅
 
-75 stars ❌
+75 stars ✅
 
 125 stars ❌
 
