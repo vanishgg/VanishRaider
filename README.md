@@ -4,9 +4,10 @@
 
 <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider">
 <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider">
+<img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider">
+<img src="https://img.shields.io/github/issues/vanishgg/vanishraider">
 <img src="https://img.shields.io/github/stars/vanishgg/vanishraider">
 <img src="https://img.shields.io/github/forks/vanishgg/vanishraider">
-<img src="https://img.shields.io/github/pull/vanishgg/vanishraider">
 
 # WARNING 
 **⚠️ Only download vanish from this github repo. unless we say we have another method for downloading. do not download from any discord server. only this github repo. or else you might get ratted or grabbed**
