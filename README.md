@@ -117,5 +117,4 @@ Youtube:  https://www.youtube.com/@bugged.
 
 Profile:   https://vanishnet.netlify.app/profile
 
-![Discord](https://img.shields.io/discord/:1161782961545428992)
-
+![DISCORD](https://canary.discord.com/api/guilds/1161782961545428992/widget.json)
