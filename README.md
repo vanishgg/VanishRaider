@@ -116,3 +116,6 @@ Discord:   https://discord.gg/Mv4YQAK8F2
 Youtube:  https://www.youtube.com/@bugged.
 
 Profile:   https://vanishnet.netlify.app/profile
+
+![Discord](https://img.shields.io/discord/:1161782961545428992)
+
