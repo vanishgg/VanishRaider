@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/c4993df9-28ef-479c-8aa5-1938411b5198)
 # VanishRaider
-**raiding made easy, A power discord Raider/MultiTool**
+**raiding made easy, A power discord Raider/MultiTool, Vanish Is now officially a multitool! more stuff coming soon**
 
 <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider">
 <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider">
