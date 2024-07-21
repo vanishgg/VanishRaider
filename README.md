@@ -80,6 +80,19 @@ Fixed Spammer (more handling)
 Changed tokens (now supports MT, Nz, OT, OD, Nj)
 Changed UI (Not really just added a 0 next to the 1-9 numbers)
 Updated spammer (Added multi spam, emoji amount, pings amount.)
+--------------------------------------------
+21/07/2024
+--------------------------------------------
+Vanish is now in V3!!!
+Added patch notes
+Added website 
+Added poll spammer
+Added info
+Added channel scraper
+Added token dupe remover
+Added themes (colors: green purple cyan blue red olive ocean mercure pink yellow teal orange gold)
+Changed ui (made everything gradient to work with themes)
+Don't like the change? use the old version but there will be no more updates for it obv
 ```
 
 # ~ THESE AREN'T ME ~
@@ -91,6 +104,7 @@ these people:
 
 <https://www.youtube.com/watch?v=mbNUBt7FqV0>
 
+mass report then for free tokens ! (always dm me before doing it )
 
 have been reuploading me video (most popular) and posting a rat. DO NOT DOWNLOAD THIS RAR OR ZIP FILE You will get grabbed or ratted please only download from our github,
 its most likely the same person
