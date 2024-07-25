@@ -34,9 +34,9 @@ token
 token
 ETC
 
-run start.bat or main.exe
+run start.bat(to install shit if it doesnt work try the exe) or vanish.exe
 
-Done, terminal closes instantly aopen opening? read help.txt
+Done, terminal closes instantly upon opening? read help.txt
 ```
 
 # goals ⭐
