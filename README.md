@@ -48,7 +48,7 @@ Done, terminal closes instantly upon opening? read help.txt
 
 75 stars ✅
 
-125 stars ❌
+125 stars ❌ (ill add a working joiner with captcha solving support)
 
 150 stars ❌
 
