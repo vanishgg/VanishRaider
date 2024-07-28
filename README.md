@@ -3,6 +3,9 @@
 **raiding made easy, A power discord Raider/MultiTool, Vanish Is now officially a multitool! more stuff coming soon**
 **Developers: Virtual & Sorrow**
 
+# Stopping work on this.
+**This has reached the end for now. im gonna be recoding vanish and actually making it good (because its shit rn ill admit that 😂) might even use a gui instead of a console ui, we will see. it will take me a bit to recode so use this version for now after this i will not be updating this git repo anymore https://github.com/vanishgg/Vanish-Recode**
+
 <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider">
 <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider">
 <img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider">
