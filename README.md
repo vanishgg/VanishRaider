@@ -43,7 +43,7 @@ run start.bat(to install shit if it doesnt work try the exe) or vanish.exe
 Done, terminal closes instantly upon opening? read help.txt
 ```
 
-# goals ⭐
+# goals (not working on this anymore)⭐
 10 stars ✅
 
 25 stars ✅
