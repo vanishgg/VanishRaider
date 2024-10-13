@@ -85,6 +85,11 @@ Added themes (colors: green purple cyan blue red olive ocean mercure pink yellow
 Changed ui (made everything gradient to work with themes)
 Changed Scraper (Credit: MassDN)
 Don't like the change? use the old version but there will be no more updates for it obv
+
+--------------------------------------------
+10/14/2024
+--------------------------------------------
+updated ui (might be glitchly/things out of place
 ```
 
 # ~ THESE AREN'T ME ~
