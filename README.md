@@ -43,19 +43,6 @@ run start.bat(to install shit if it doesnt work try the exe) or vanish.exe
 Done, terminal closes instantly upon opening? read help.txt
 ```
 
-# goals (not working on this anymore)⭐
-10 stars ✅
-
-25 stars ✅
-
-50 stars ✅
-
-75 stars ✅
-
-125 stars ❌ (ill add a working joiner with captcha solving support)
-
-150 stars ❌
-
 
 # changes
 ```
