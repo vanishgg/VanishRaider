@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/vanishgg/vanishraider">
-    <img src="https://i.ibb.co/G9ctsGQ/nigga.png" alt="Logo" width="100" height="100">
+    <img src="https://i.ibb.co/bzF865B/nigga.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Vanish Raider</h3>
   <p align="center">
