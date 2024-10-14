@@ -1,126 +1,84 @@
-![image](https://github.com/user-attachments/assets/c4993df9-28ef-479c-8aa5-1938411b5198)
-# VanishRaider
-**raiding made easy, A power discord Raider/MultiTool, Vanish Is now officially a multitool! more stuff coming soon**
-**Developers: Virtual**
-
-<img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider">
-<img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider">
-<img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider">
-<img src="https://img.shields.io/github/issues/vanishgg/vanishraider">
-<img src="https://img.shields.io/github/stars/vanishgg/vanishraider">
-<img src="https://img.shields.io/github/forks/vanishgg/vanishraider">
-
-# WARNING 
-**⚠️ Only download vanish from this github repo. unless we say we have another method for downloading. do not download from any discord server. only this github repo. or else you might get ratted or grabbed**
-
-# Disclaimer
-**THIS IS FOR EDUCATIONAL PURPOSES ONLY USE AT OWN RISK, ANYTHING YOU DO WITH THIS IS YOUR FAULT/PROBLEM**
+<p align="center">
+  <a href="https://github.com/vanishgg/vanish-recode">
+    <img src="https://i.ibb.co/G9ctsGQ/nigga.png" alt="Logo" width="100" height="100">
+  </a>
+  <h3 align="center">Vanish Raider</h3>
+  <p align="center">
+    Vanish is a simple Discord raider.
+    <br/>
+    <a href="https://discord.gg/Mv4YQAK8F2">Our discord</a>
+  </p>
+</p>
 
 
-# requirements
-**this tool requires USER tokens (u can buy them or make them)**
 
-**must be on a pc / laptop**
+<p align="center">
+  <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider" alt="Issues Closed">
+  <img src="https://img.shields.io/github/issues/vanishgg/vanishraider" alt="Issues">
+  <img src="https://img.shields.io/github/stars/vanishgg/vanishraider" alt="Stars">
+  <img src="https://img.shields.io/github/forks/vanishgg/vanishraider" alt="Forks">
+</p>
+<p><img src="https://i.ibb.co/YBkcQQ4/cc.jpg" alt="Preview"></p>
 
-**a brain**
+<h2 id="about">About Vanish</h2>
+<p>Vanish Raider is a tool made for raiding discord servers and more. mostly used for raiding, vanish is simple and easy to use made by virtual & sorrow.</p>
 
-# tutorial
-```
-download the zip
-extract the zip
-open the folder
+<h2>WARNING</h2>
+<p><strong>⚠️ Only download Vanish from this GitHub repo, downloading from anywhere else might result in you getting malware</strong></p>
 
-put your User tokens in tokens.txt in this format:
-token
-token
-ETC
+<h2>Disclaimer</h2>
+<p><strong>THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. USE AT YOUR OWN RISK. ANY ACTIONS YOU TAKE WITH THIS TOOL ARE YOUR OWN RESPONSIBILITY.</strong></p>
 
-run start.bat(to install shit if it doesnt work try the exe) or vanish.exe
+<h2>Requirements</h2>
+<ul>
+  <li>User tokens.</li>
+  <li>A PC or laptop.</li>
+  <li>a brain.</li>
+</ul>
 
-Done, terminal closes instantly upon opening? read help.txt
-```
+<h2>Tutorial</h2>
+<pre><code>
+1. Download the ZIP file.
+2. Extract the ZIP file.
+3. Open the extracted folder.
 
+4. Place your user tokens in the `tokens.txt` file in this format:
+   token
+   token
+   ETC
 
-# changes
-```
-22/06/2024
---------------------------------------------
-added new ascii art & updated ui
-added flood spam - guild check
-replaced booster & friender with - formatter & id to token
---------------------------------------------
-01/07/2024
---------------------------------------------
-Added log spammer
-Added Presence Changer 
-Added Token Login
-Added Pronoun Changer
-Added Ghost Ping spam
-Added VanishMatrix (Go to page 2 and type ? then enter)
-Changed Token checker
-Changed Color / Ui Success / failed prints
-Fixed token checker
-Fixed tokens (Only checks for mt tokens, will add NZ And ODY tokens. soon)
-Fixed Spammer (more handling)
---------------------------------------------
-13/07/2024 (SMALL UPDATE)
---------------------------------------------
-Changed tokens (now supports MT, Nz, OT, OD, Nj)
-Changed UI (Not really just added a 0 next to the 1-9 numbers)
-Updated spammer (Added multi spam, emoji amount, pings amount.)
---------------------------------------------
-21/07/2024
---------------------------------------------
-Vanish is now in V3!!!
-Added patch notes
-Added website 
-Added poll spammer
-Added info
-Added channel scraper
-Added token dupe remover
-Added themes (colors: green purple cyan blue red olive ocean mercure pink yellow teal orange gold)
-Changed ui (made everything gradient to work with themes)
-Changed Scraper (Credit: MassDN)
-Don't like the change? use the old version but there will be no more updates for it obv
+5. Run `start.bat` (to install dependencies) or `vanish.exe`.
 
---------------------------------------------
-10/14/2024
---------------------------------------------
-updated ui (might be glitchly/things out of place
-```
+check help.txt if terminal is closing instantly
+</code></pre>
 
-# ~ THESE AREN'T ME ~
-these people:
+<h2>Changelog</h2>
+<pre><code>
+New Ui (might be a little buggy / glitchly / things out of place will be fixed next update but doesnt really matter
+</code></pre>
 
-<https://www.youtube.com/watch?v=BjLJ7j-QakY>
+<h2>⚠️ Fakes ⚠️</h2>
+<p>These people are claiming to be "vanish raider" and there is more, and they are linking malware/grabbers.</p>
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=BjLJ7j-QakY">Video 1</a></li>
+  <li><a href="https://www.youtube.com/watch?v=67Kl6OGH5BI">Video 2 (taken down)</a></li>
+  <li><a href="https://www.youtube.com/watch?v=mbNUBt7FqV0">Video 3</a></li>
+</ul>
+<p>Only download from this github repo..</p>
+<p><img src="https://github.com/user-attachments/assets/396905de-dea9-4566-86b0-11f90990841f" alt="Warning"></p>
 
-<https://www.youtube.com/watch?v=67Kl6OGH5BI> (taken down)
-
-<https://www.youtube.com/watch?v=mbNUBt7FqV0>
-
-mass report then for free tokens ! (always dm me before doing it )
-
-have been reuploading me video (most popular) and posting a rat. DO NOT DOWNLOAD THIS RAR OR ZIP FILE You will get grabbed or ratted please only download from our github,
-its most likely the same person
-![image](https://github.com/user-attachments/assets/396905de-dea9-4566-86b0-11f90990841f)
-
-# rant (me ranting about random shit)
-- 1 **I started this raider because i was bored of nuking, joined raiding community, now i gotta deal with a lot more shit with nuking it had no downloads so there was nothing to worry about, now i got people saying i rat or grab with literal no proof.**
-
-- 2 **people also say i skid other raiders just because of vanish's ui so im planning to make a big change to the Ui soon. and people got no actual proof i skidded this or not**
-
-- 3 **well luckily people who do have a brain defend me when i don't ask so i do got somewhat of a supporting community heres some people who i like in this community // mentions :3 : "ng2.yung", "wrnr3" (one of my helpers), "funkyaid.py" (another one of my helpers), ng2 is pretty OG in the community i think he was there back when it was called celestial.**
-
-- 4 **i will probably post the source code of this raider when i'm done with it. since i'll have no use for it.**
-
-- 5 **if your gonna say this is a grabber or rat, have actual proof, virustotal doesn't count as it will always say a exe is a virus, compile an open source project of mine, or one that i will make open source, scan it on virustotal and now it will suddenly be a virus, usually its around 7/71 if you scan the exe, the exe is the only thing that matter because you can read the rest (: of the files**
+<h2>Links</h2>
+<ul>
+  <li>Website: <a href="https://vanishnet.netlify.app/">https://vanishnet.netlify.app/</a></li>
+  <li>Discord: <a href="https://discord.gg/Mv4YQAK8F2">https://discord.gg/Mv4YQAK8F2</a></li>
+  <li>YouTube: <a href="https://www.youtube.com/@bugged">https://www.youtube.com/@bugged</a></li>
+  <li>Profile: <a href="https://vanishnet.netlify.app/profile">https://vanishnet.netlify.app/profile</a></li>
+</ul>
 
 
-# Links
-Website:  https://vanishnet.netlify.app/
 
-Discord:   https://discord.gg/Mv4YQAK8F2
-
-Youtube:  https://www.youtube.com/@bugged.
-
-Profile:   https://vanishnet.netlify.app/profile
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Vanish+raider;Raiding+made+simple;made+by+virtual" alt="Typing SVG">
+</p>
