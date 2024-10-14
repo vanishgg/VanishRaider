@@ -56,6 +56,7 @@ check help.txt if terminal is closing instantly
 
 <h2>Changelog</h2>
 <pre><code>
+-- 10/14/2024 --
 New Ui (might be a little buggy / glitchly / things out of place will be fixed next update but doesnt really matter
 </code></pre>
 
