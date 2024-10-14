@@ -63,9 +63,8 @@ New Ui (might be a little buggy / glitchly / things out of place will be fixed n
 <h2>⚠️ Fakes ⚠️</h2>
 <p>These people are claiming to be "vanish raider" and there is more, and they are linking malware/grabbers.</p>
 <ul>
-  <li><a href="https://www.youtube.com/watch?v=BjLJ7j-QakY">Video 1</a></li>
-  <li><a href="https://www.youtube.com/watch?v=67Kl6OGH5BI">Video 2 (taken down)</a></li>
-  <li><a href="https://www.youtube.com/watch?v=mbNUBt7FqV0">Video 3</a></li>
+  <li><a href="https://www.youtube.com/watch?v=PfgamI8GoAM">Video 1</a></li>
+  <li><a href="https://www.youtube.com/watch?v=9G1HE339AHE">Video 2</a></li>
 </ul>
 <p>Only download from this github repo..</p>
 <p><img src="https://github.com/user-attachments/assets/396905de-dea9-4566-86b0-11f90990841f" alt="Warning"></p>
