@@ -74,7 +74,7 @@ New Ui (might be a little buggy / glitchly / things out of place will be fixed n
 <ul>
   <li>Website: <a href="https://vanishnet.netlify.app/">https://vanishnet.netlify.app/</a></li>
   <li>Discord: <a href="https://discord.gg/Mv4YQAK8F2">https://discord.gg/Mv4YQAK8F2</a></li>
-  <li>YouTube: <a href="https://www.youtube.com/@bugged">https://www.youtube.com/@bugged</a></li>
+  <li>YouTube: <a href="https://www.youtube.com/@kqfo">https://www.youtube.com/@kqfo</a></li>
   <li>Profile: <a href="https://vanishnet.netlify.app/profile">https://vanishnet.netlify.app/profile</a></li>
 </ul>
 
