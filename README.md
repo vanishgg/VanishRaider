@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/vanishgg/vanish-recode">
+  <a href="https://github.com/vanishgg/vanishraider">
     <img src="https://i.ibb.co/G9ctsGQ/nigga.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Vanish Raider</h3>
@@ -23,7 +23,7 @@
 <p><img src="https://i.ibb.co/YBkcQQ4/cc.jpg" alt="Preview"></p>
 
 <h2 id="about">About Vanish</h2>
-<p>Vanish Raider is a tool made for raiding discord servers and more. mostly used for raiding, vanish is simple and easy to use made by virtual & sorrow.</p>
+<p>Vanish Raider is a tool made for raiding discord servers and more. mostly used for raiding, vanish is simple and easy to use made by virtual</p>
 
 <h2>WARNING</h2>
 <p><strong>⚠️ Only download Vanish from this GitHub repo, downloading from anywhere else might result in you getting malware</strong></p>
