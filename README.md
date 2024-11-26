@@ -82,3 +82,5 @@ New Ui (might be a little buggy / glitchly / things out of place will be fixed n
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=7B00FF&center=true&vCenter=true&width=380&lines=Vanish+raider;Raiding+made+simple;made+by+virtual" alt="Typing SVG">
 </p>
+
+#
