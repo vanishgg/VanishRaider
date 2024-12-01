@@ -29,8 +29,7 @@ you need 4-5 tokens (depends on how big server is)
 and channel must be viewable for tokens
 
 Tokens - help 4
-As of right now this tool only supports MT tokens soon it will support NZ & ODY tokens and others
-
+no
 
 more help?
 if you need more help open a ticket in our discord server --> https://discord.gg/Mv4YQAK8F2 (Vanity -> discord.gg/vanishgg <-)
