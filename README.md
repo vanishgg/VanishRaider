@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/github/stars/vanishgg/vanishraider" alt="Stars">
   <img src="https://img.shields.io/github/forks/vanishgg/vanishraider" alt="Forks">
 </p>
-<p><img src="https://i.ibb.co/YBkcQQ4/cc.jpg" alt="Preview"></p>
+<p><img src="https://i.ibb.co/kB5W90n/igg.jpg" alt="Preview"></p>
 
 <h2>Disclaimer</h2>
 <p><strong>THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. USE AT YOUR OWN RISK. ANY ACTIONS YOU TAKE WITH THIS TOOL ARE YOUR OWN RESPONSIBILITY.</strong></p>
