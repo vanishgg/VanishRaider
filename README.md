@@ -1,10 +1,10 @@
 <p align="center">
   <a href="https://github.com/vanishgg/vanishraider">
-    <img src="https://i.ibb.co/bzF865B/nigga.png" alt="Logo" width="100" height="100">
+    <img src="https://i.ibb.co/zxZ4zcR/logo.png" alt="Logo" width="100" height="100">
   </a>
   <h3 align="center">Vanish Raider</h3>
   <p align="center">
-    Vanish is a simple Discord raider.
+    A free discord raider.
     <br/>
     <a href="https://discord.gg/Mv4YQAK8F2">Our discord</a>
   </p>
@@ -21,12 +21,6 @@
   <img src="https://img.shields.io/github/forks/vanishgg/vanishraider" alt="Forks">
 </p>
 <p><img src="https://i.ibb.co/YBkcQQ4/cc.jpg" alt="Preview"></p>
-
-<h2 id="about">About Vanish</h2>
-<p>Vanish Raider is a tool made for raiding discord servers and more. mostly used for raiding, vanish is simple and easy to use made by virtual</p>
-
-<h2>WARNING</h2>
-<p><strong>⚠️ Only download Vanish from this GitHub repo, downloading from anywhere else might result in you getting malware</strong></p>
 
 <h2>Disclaimer</h2>
 <p><strong>THIS TOOL IS FOR EDUCATIONAL PURPOSES ONLY. USE AT YOUR OWN RISK. ANY ACTIONS YOU TAKE WITH THIS TOOL ARE YOUR OWN RESPONSIBILITY.</strong></p>
