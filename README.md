@@ -2,7 +2,7 @@
   <a href="https://github.com/vanishgg/vanishraider">
     <img src="https://i.ibb.co/zxZ4zcR/logo.png" alt="Logo" width="100" height="100">
   </a>
-  <h3 align="center">Vanish Raider</h3>
+  <h3 align="center">Vanish Raider (Update in progress!!)</h3>
   <p align="center">
     A free discord raider.
     <br/>
