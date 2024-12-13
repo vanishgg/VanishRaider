@@ -7,9 +7,8 @@
 <h3 align="center">Vanish Raider</h3>
 
 <p align="center">
-  <br/>
   <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff" alt="Join Discord">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff" alt="Discord">
   </a>
 </p>
 
