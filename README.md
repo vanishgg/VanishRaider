@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider" alt="Top Language">
+  <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider-purple" alt="Top Language">
   <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider" alt="Last Commit">
   <img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider" alt="Issues Closed">
   <img src="https://img.shields.io/github/issues/vanishgg/vanishraider" alt="Issues">
