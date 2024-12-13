@@ -13,12 +13,12 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider" alt="Top Language">
-  <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider" alt="Last Commit">
-  <img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider" alt="Issues Closed">
-  <img src="https://img.shields.io/github/issues/vanishgg/vanishraider" alt="Issues">
-  <img src="https://img.shields.io/github/stars/vanishgg/vanishraider" alt="Stars">
-  <img src="https://img.shields.io/github/forks/vanishgg/vanishraider" alt="Forks">
+  <img src="https://img.shields.io/github/languages/top/vanishgg/vanishraider?color=8c52ff" alt="Top Language">
+  <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider?color=8c52ff" alt="Last Commit">
+  <img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider?color=8c52ff" alt="Issues Closed">
+  <img src="https://img.shields.io/github/issues/vanishgg/vanishraider?color=8c52ff" alt="Issues">
+  <img src="https://img.shields.io/github/stars/vanishgg/vanishraider?color=8c52ff" alt="Stars">
+  <img src="https://img.shields.io/github/forks/vanishgg/vanishraider?color=8c52ff" alt="Forks">
 </p>
 <p><img src="https://i.ibb.co/kB5W90n/igg.jpg" alt="Preview"></p>
 
