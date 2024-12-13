@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/last-commit/vanishgg/vanishraider?color=8c52ff" alt="Last Commit">
   <img src="https://img.shields.io/github/issues-closed/vanishgg/vanishraider?color=8c52ff" alt="Issues Closed">
   <img src="https://img.shields.io/github/issues/vanishgg/vanishraider?color=8c52ff" alt="Issues">
-  <img src="https://img.shields.io/github/v/release/vanishgg/vanishraider?color=purple" alt="Release">
+  <img src="https://img.shields.io/github/v/release/vanishgg/vanishraider?color=8c52ff" alt="Release">
 </p>
 <p><img src="https://i.ibb.co/kB5W90n/igg.jpg" alt="Preview"></p>
 
