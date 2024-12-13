@@ -2,13 +2,16 @@
   <a href="https://github.com/vanishgg/vanishraider">
     <img src="https://i.ibb.co/zxZ4zcR/logo.png" alt="Logo" width="100" height="100">
   </a>
-  <h3 align="center">Vanish Raider</h3>
-  <p align="center">
-    A free discord raider.
-    <br/>
-    <a href="https://discord.gg/Mv4YQAK8F2">Our discord</a>
-  </p>
 </p>
+<h3 align="center">Vanish Raider</h3>
+<p align="center">
+  A free discord raider.
+  <br/>
+  <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=flat&logo=discord&logoColor=white&color=8c52ff" alt="Join Discord">
+  </a>
+</p>
+
 
 
 
