@@ -19,6 +19,8 @@ body:
       label: Frequency
       description: How often does this issue happen? (e.g, always, sometimes, rarely)
       placeholder: "Always"
+    validations:
+      required: true
   - type: textarea
     id: screenshots
     attributes:
