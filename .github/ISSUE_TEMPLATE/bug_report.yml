@@ -1,4 +1,5 @@
 name: "Issue Report | In [option name]"
+blank_issues_enabled: false
 description: Create a report
 body:
   - type: markdown
