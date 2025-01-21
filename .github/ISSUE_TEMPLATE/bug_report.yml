@@ -13,6 +13,20 @@ body:
       placeholder: "Vanish is Instantly closing.."
     validations:
       required: true
+  - type: checkboxes
+    id: priority
+    attributes:
+      label: Priority
+      description: How critical is this issue?
+      options:
+        - label: "Low"
+          value: "low"
+        - label: "Medium"
+          value: "medium"
+        - label: "High"
+          value: "high"
+        - label: "Urgent"
+          value: "urgent"
   - type: textarea
     id: frequency
     attributes:
