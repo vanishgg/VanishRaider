@@ -13,24 +13,25 @@ body:
     validations:
       required: true
   - type: textarea
-    id: description
+    id: description2
     attributes:
       label: Describe the solution you'd like
       description: A clear description of what you want to happen.
     validations:
       required: true
   - type: textarea
-    id: description
+    id: description3
     attributes:
       label: Additional context
       description: Add any other context or example screenshots(if you can) about the feature request here.
   - type: checkboxes
-    id: terms
+    id: priority
     attributes:
-      label: priority
-      description: Enter a priority level you think is right for this feature, if its not i will either delete or dismiss most likely 
+      label: Priority
+      description: Enter a priority level you think is right for this feature. If it's not correct, I will either delete or dismiss it, most likely.
       options:
         - label: Low
         - label: High
         - label: Top
-          required: true
+    validations:
+      required: true
