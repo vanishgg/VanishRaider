@@ -16,17 +16,17 @@ body:
   - type: checkboxes
     id: priority
     attributes:
-      label: Priority
+      label: Priority Level
       description: How critical is this issue?
       options:
         - label: "Low"
-          value: "low"
+          checked: false
         - label: "Medium"
-          value: "medium"
+          checked: false
         - label: "High"
-          value: "high"
+          checked: false
         - label: "Urgent"
-          value: "urgent"
+          checked: false
   - type: textarea
     id: frequency
     attributes:
