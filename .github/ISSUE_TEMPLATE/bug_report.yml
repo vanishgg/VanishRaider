@@ -14,6 +14,12 @@ body:
     validations:
       required: true
   - type: textarea
+    id: frequency
+    attributes:
+      label: Frequency of Occurrence
+      description: How often does this issue occur? (e.g., always, sometimes, rarely)
+      placeholder: "Always"
+  - type: textarea
     id: screenshots
     attributes:
       label: Attach Screenshot (Optional)
