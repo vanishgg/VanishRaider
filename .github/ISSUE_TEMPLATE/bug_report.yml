@@ -15,7 +15,7 @@ body:
     validations:
       required: true
   - type: file
-    id: attach_image
+    id: screenshots
     attributes:
       label: Attach Image
       description: If You can, please attach an image of error/issue
