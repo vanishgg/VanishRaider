@@ -1,4 +1,3 @@
-
 name: "Issue Report | In [option name]"
 description: Create a report
 body:
@@ -14,8 +13,8 @@ body:
       placeholder: "Vanish is Instantly closing.."
     validations:
       required: true
-  - type: file
+  - type: textarea
     id: screenshots
     attributes:
       label: Attach Image
-      description: If You can, please attach an image of error/issue
+      description: If you can, please upload an image of issue.
