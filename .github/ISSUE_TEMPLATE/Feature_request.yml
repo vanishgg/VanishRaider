@@ -1,5 +1,7 @@
 name: "Feature request"
 description: Suggest a new feature
+assignees:
+  - vanishgg
 body:
   - type: markdown
     attributes:
