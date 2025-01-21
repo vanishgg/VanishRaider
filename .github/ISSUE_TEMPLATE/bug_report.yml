@@ -26,3 +26,11 @@ body:
     attributes:
       label: Attach Screenshot (Optional)
       description: If you can, please upload an image of issue.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Vanish Wiki
+      description: before submitting Read our [wiki](https://github.com/vanishgg/VanishRaider/wiki). 
+      options:
+        - label: Have You read vanish wiki?
+          required: true
