@@ -16,5 +16,5 @@ body:
   - type: textarea
     id: screenshots
     attributes:
-      label: Attach Image
+      label: Attach Screenshot (Optional)
       description: If you can, please upload an image of issue.
