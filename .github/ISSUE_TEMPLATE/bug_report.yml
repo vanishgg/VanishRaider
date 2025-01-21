@@ -16,8 +16,8 @@ body:
   - type: textarea
     id: frequency
     attributes:
-      label: Frequency of Occurrence
-      description: How often does this issue occur? (e.g., always, sometimes, rarely)
+      label: Frequency
+      description: How often does this issue happen? (e.g, always, sometimes, rarely)
       placeholder: "Always"
   - type: textarea
     id: screenshots
