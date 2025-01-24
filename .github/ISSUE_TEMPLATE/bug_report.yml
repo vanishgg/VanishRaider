@@ -1,4 +1,4 @@
-name: "Issue Report | In [option name]"
+name: "[Issue] Name Here"
 description: Create a report
 body:
   - type: markdown
