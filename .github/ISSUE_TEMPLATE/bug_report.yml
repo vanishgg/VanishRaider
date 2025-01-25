@@ -33,5 +33,6 @@ body:
       description: before submitting Read our [wiki](https://github.com/vanishgg/VanishRaider/wiki). 
       options:
         - label: Yes
+          required: true
         - label: No
           required: true
