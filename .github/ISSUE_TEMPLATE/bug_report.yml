@@ -32,5 +32,6 @@ body:
       label: Vanish Wiki
       description: before submitting Read our [wiki](https://github.com/vanishgg/VanishRaider/wiki). 
       options:
-        - label: Have You read vanish wiki?
+        - label: Yes
+        - label: No
           required: true
