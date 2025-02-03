@@ -4,7 +4,8 @@
   </a>
 </p>
 
-<h3 align="center">Vanish Raider</h3>
+<h3 align="center">Vanish Raider (DISCONTINUED)</h3>
+<h3 align="center">I have stopped work on this raider, no more updates nor support, Sorry!</h3>
 
 <p align="center">
   <a href="https://discord.gg/invite/Mv4YQAK8F2" target="_blank">
